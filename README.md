@@ -17,7 +17,7 @@ Run get_caption.run(*image_path*) -- this returns a dictionary with following st
 *image path*: Absolute path 
  						        
 ```diff
-- IMPORTANT: Keep caption.py and get_caption.py in same directory
+- IMPORTANT: Keep caption.py, get_caption.py and im2txt folder in same directory
 ```
 	
 
